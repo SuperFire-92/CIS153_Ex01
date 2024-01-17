@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\bin\Debug\CIS153_Ex01_FirstApp.exe.config
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\bin\Debug\CIS153_Ex01_FirstApp.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\bin\Debug\CIS153_Ex01_FirstApp.pdb
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.Properties.Resources.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.pdb
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex01\CIS153_Ex01_FirstApp\CIS153_Ex01_FirstApp\obj\Debug\CIS153_Ex01_FirstApp.Form1.resources
